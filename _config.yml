@@ -5,10 +5,4 @@ color:
   lightness: 0.2841031
   brandStrength: 0.472073
   rhythmicContrast: 0.6965628
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
 name: CrazyKangaroo

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CrazyKangaroo]]></title>
+        <description><![CDATA[CrazyKangaroo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 04:26:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[All grown up]]></title>
+            <description><![CDATA[<article><h1>All grown up</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fba40cae-a5f8-46a8-bec1-b6b5876cfff6.png"></article>]]></description>
+            <link>undefinedall-grown-up/index.html</link>
+            <guid isPermaLink="false">b7edddc2-5808-4783-a548-5836fdd40627</guid>
+            <pubDate>Thu, 07 Apr 2016 04:25:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

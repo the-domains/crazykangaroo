@@ -4,17 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2389903
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.04887218
 color:
-  saturation: 0.8082706
-  brandStrength: 0.472073
-  rhythmicContrast: 0.6965628
-  lightness: 0.2841031
-layout_spectrum: 0.5193341
+  saturation: 0.5451128
+  brandStrength: 0.9199785
+  lightness: 0.2400644
+  brandColors:
+    - '#FDFDFD'
+    - '#151F1F'
+    - '#9299A3'
+    - '#6F7788'
+    - '#91775C'
+  rhythmicContrast: 0.2701396
+layout_spectrum: 0.9124597
 name: CrazyKangaroo

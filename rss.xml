@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CrazyKangaroo]]></title>
         <description><![CDATA[CrazyKangaroo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/crazykangaroo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 04:26:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 04:32:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/crazykangaroo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[As above, so below]]></title>
+            <description><![CDATA[<article><h1>As above, so below</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab96eb7903b3e292af3f153e9a8e224368d83876.png"></article>]]></description>
+            <link>https://thegrid.ai/crazykangaroo/as-above-so-below/index.html</link>
+            <guid isPermaLink="false">b0c87d96-e11b-4975-8ac7-4062f1d24f62</guid>
+            <pubDate>Thu, 07 Apr 2016 04:31:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[All grown up]]></title>
             <description><![CDATA[<article><h1>All grown up</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fba40cae-a5f8-46a8-bec1-b6b5876cfff6.png"></article>]]></description>
-            <link>undefinedall-grown-up/index.html</link>
+            <link>https://thegrid.ai/crazykangaroo/all-grown-up/index.html</link>
             <guid isPermaLink="false">b7edddc2-5808-4783-a548-5836fdd40627</guid>
             <pubDate>Thu, 07 Apr 2016 04:25:33 GMT</pubDate>
         </item>
